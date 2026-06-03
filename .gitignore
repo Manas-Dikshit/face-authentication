@@ -1,0 +1,51 @@
+# Face recognition data
+*.npy
+
+# Images
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.bmp
+*.gif
+*.tif
+*.tiff
+*.heic
+*.heif
+*.avif
+*.jfif
+*.raw
+*.cr2
+*.nef
+*.arw
+*.dng
+*.orf
+*.rw2
+*.sr2
+
+# Common image folders
+images/
+imgs/
+photos/
+my_photos/
+cropped_faces/
+dataset/
+datasets/
+Ml/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
