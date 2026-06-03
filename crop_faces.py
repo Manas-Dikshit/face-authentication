@@ -2,7 +2,7 @@ import os
 import cv2
 from insightface.app import FaceAnalysis
 
-INPUT_DIR = "Ml"
+INPUT_DIR = "my_photos"  # Change this to your folder with photos
 OUTPUT_DIR = "cropped_faces"
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
